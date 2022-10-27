@@ -1,3 +1,6 @@
+import React from 'react';
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 import { createRoot } from 'react-dom/client';
 
 import 'bulma/css/bulma.css';

@@ -8,6 +8,8 @@ module.exports = {
     'react/prop-types': 0,
     'react/self-closing-comp': 0,
     'react/display-name': 0,
+    'no-shadow': 'off',
+    'jsx-a11y/label-has-associated-control': 'off',
 
     // JavaScript
     semi: 0,
